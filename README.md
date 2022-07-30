@@ -1,5 +1,9 @@
 # Salve!! Emerson Missun Aqui!
-
+<div align="center">
+  <a href="https://github.com/emersonmissun">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonmissun&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonmissun&layout=compact&langs_count=7&theme=dark"/>
+</div>
 - 👋 Salve!!! Meu nome é Emerson Missun e estou à frente do Estúdio Refação. Uma Empresa de Marketing Digital, Design e Produção Gráfica. Um canivete suíço para a publicidade e propaganda de pequenas e médias empresas que já atendeu muita gente grande também.
 
 - 👀 Eu me aventuro na área de programação e desenvolvimento mas confesso que não é minha praia e deixo a maioria das atividades com profissionais altamente qualificados. Mas, quando consigo resolver algum problema ou desenvolver algo sozinho fico numa alegria enorme.
